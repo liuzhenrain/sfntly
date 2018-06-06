@@ -1,3 +1,8 @@
+使用 IDEA 打开项目下 JAVA 文件夹，然后直接使用 marven 进行编译，在target目录里面执行命令行。
+
+ java -jar \[sfnttool.jar\] -r \[\w\pP\u4E00-\u9FA5\] \[原字体名.ttf\] \[新的字体名.ttf\] 
+ 匹配所有的中文字符，英文字符，所有的标点符号
+
 # sfntly
 
 sfntly is pronounced "ess-font-lee."
